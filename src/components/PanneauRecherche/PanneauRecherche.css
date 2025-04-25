@@ -1,0 +1,45 @@
+#panneauRecherche{
+    position:fixed;
+    z-index: 100;
+    right:-200%;
+    height:100%;
+    width:35%;
+    background-color: white;
+    box-shadow: -2px 0 10px rgba(0,0,0,0.2);
+    transition: right 0.4s ease;
+    top:0;
+    padding: 20px;
+}
+
+#panneauRecherche.panneauOuvert{
+    right:0;
+}
+
+#closeRecherche{
+    width : 20px;
+    font-size:24px;
+    top:10px;
+    left:10px;
+    background: none;
+    border:none;
+
+}
+
+#panneauRecherche h2{
+    top : 10px;
+    left : 10px;
+    margin-top: 8px;
+    padding-top: 6px;
+
+}
+
+#saisieRecherche{
+    top : 20px;
+    left: 10px;
+    width:500px;
+    height: 35px;
+}
+
+#ouvrirRecherche{
+    cursor:pointer;
+}
