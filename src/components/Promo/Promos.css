@@ -1,0 +1,33 @@
+.plan {
+    position: relative;
+    width: 1000px;
+    margin: auto;
+    border :0;
+}
+
+.accueilIMG {
+    width: 100%;
+    border-radius: 50px;
+    height:650px;
+}
+
+
+.promo {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+    border: 0 ;
+}
+
+#btn1{
+    padding: 5px;
+    border-radius: 10px;
+    color:white;
+    background-color: RGB(190, 150, 105);
+    font-family: 'Raleway', sans-serif;
+}

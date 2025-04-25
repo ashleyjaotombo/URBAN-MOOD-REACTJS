@@ -1,0 +1,25 @@
+.genre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.genre section {
+    padding: 20px;
+    background-color: peachpuff;
+    margin: 20px;
+    border:3px solid goldenrod ;
+
+}
+
+.genre-link{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+.genre img{
+    height:540px;
+    width: 360px;
+    padding: 40px;
+}

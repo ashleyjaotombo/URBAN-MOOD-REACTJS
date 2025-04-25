@@ -1,0 +1,33 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    color:black;
+}
+
+
+.navbar{
+    display:flex;
+    text-decoration: none;
+    list-style: none;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: black;
+    font-size:20px;
+}
+
+nav > ul > li {
+    padding-left: 25px;
+}
+nav img{
+    width: 25px;
+    height:25px;
+    padding-top: -50px;
+
+}
+
+.logo{
+    width : 250px;
+    height : 50px;
+}
