@@ -1,0 +1,58 @@
+{
+  "pantalon": [
+    { "title": "pantalon1", "prix": 35, "description": "Jean brut coupe droite" },
+    { "title": "pantalon2", "prix": 34, "description": "Jean clair délavé" },
+    { "title": "pantalon3", "prix": 38, "description": "Cargo denim à poches" },
+    { "title": "pantalon4", "prix": 32, "description": "Pantalon large kaki foncé" },
+    { "title": "pantalon5", "prix": 31, "description": "Pantalon vert clair fluide" },
+    { "title": "pantalon6", "prix": 33, "description": "Pantalon bleu ciel décontracté" },
+    { "title": "pantalon7", "prix": 30, "description": "Cargo beige taille élastique" },
+    { "title": "pantalon8", "prix": 30, "description": "Cargo crème oversize" },
+    { "title": "pantalon9", "prix": 36, "description": "Jogger noir imprimé rose" },
+    { "title": "pantalon10", "prix": 29, "description": "Pantalon large bordeaux" },
+    { "title": "pantalon11", "prix": 27, "description": "Jogger Venom noir et rose" },
+    { "title": "pantalon12", "prix": 28, "description": "Cargo bordeaux à cordon" }
+  ],
+  "tshirt": [
+    { "title": "tshirt1", "prix": 24, "description": "T-shirt blanc smiley fleurs" },
+    { "title": "tshirt2", "prix": 23, "description": "T-shirt marron Los Angeles" },
+    { "title": "tshirt3", "prix": 25, "description": "T-shirt noir papillon dos" },
+    { "title": "tshirt4", "prix": 23, "description": "T-shirt beige Los Angeles" },
+    { "title": "tshirt5", "prix": 24, "description": "T-shirt papillon pastel" },
+    { "title": "tshirt6", "prix": 22, "description": "T-shirt blanc texte pastel" },
+    { "title": "tshirt7", "prix": 26, "description": "T-shirt beige canettes print" },
+    { "title": "tshirt8", "prix": 25, "description": "T-shirt champignons et fleurs" },
+    { "title": "tshirt9", "prix": 26, "description": "T-shirt noir lune grenouille" },
+    { "title": "tshirt10", "prix": 24, "description": "T-shirt coffee girl illustré" },
+    { "title": "tshirt11", "prix": 25, "description": "T-shirt violet à motifs or" },
+    { "title": "tshirt12", "prix": 23, "description": "T-shirt bleu clair baseball" }
+  ],
+  "pull": [
+    { "title": "pull1", "prix": 36, "description": "Pull à motifs nordiques bordeaux" },
+    { "title": "pull2", "prix": 32, "description": "Pull orange uni à mailles" },
+    { "title": "pull3", "prix": 35, "description": "Hoodie crème New York à zip" },
+    { "title": "pull4", "prix": 30, "description": "Pull vert uni tricoté" },
+    { "title": "pull5", "prix": 33, "description": "Sweat blanc col montant New York" },
+    { "title": "pull6", "prix": 35, "description": "Sweat crème Los Angeles oversize" },
+    { "title": "pull7", "prix": 29, "description": "Hoodie noir bandes blanches manches" },
+    { "title": "pull8", "prix": 34, "description": "Pull rayé blanc et noir large" },
+    { "title": "pull9", "prix": 37, "description": "Hoodie noir à motif rose brillant" },
+    { "title": "pull10", "prix": 39, "description": "Pull noir motif araignée fluffy" },
+    { "title": "pull11", "prix": 33, "description": "Hoodie crème motif ours Feel Good" },
+    { "title": "pull12", "prix": 31, "description": "Pull jaune moutarde en grosses mailles" }
+  ],
+  "accessoire": [
+    { "title": "accessoire1", "prix": 20, "description": "Lunettes sans monture bleues" },
+    { "title": "accessoire2", "prix": 22, "description": "Lunettes rétro noires" },
+    { "title": "accessoire3", "prix": 18, "description": "Lunettes camouflage bleues" },
+    { "title": "accessoire4", "prix": 15, "description": "Boucles acier industriel" },
+    { "title": "accessoire5", "prix": 17, "description": "Créoles perles violettes" },
+    { "title": "accessoire6", "prix": 16, "description": "Créoles améthyste brute" },
+    { "title": "accessoire7", "prix": 19, "description": "Casquette moumoute marron" },
+    { "title": "accessoire8", "prix": 21, "description": "Casquette kaki Von Dutch" },
+    { "title": "accessoire9", "prix": 20, "description": "Casquette filet marron" },
+    { "title": "accessoire10", "prix": 18, "description": "Chapeau beige style safari" },
+    { "title": "accessoire11", "prix": 23, "description": "Casquette beige Von Dutch" },
+    { "title": "accessoire12", "prix": 17, "description": "Bob noir léger été" }
+  ]
+}
