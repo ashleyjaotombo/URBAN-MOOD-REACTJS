@@ -1,0 +1,36 @@
+h2{
+    margin-top: 80px;
+}
+
+.nouveaute{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nouveaute > section > img{
+    height:200px;
+    width:200px;
+}
+
+.nouveaute > section {
+    background-color: RGB(244, 239, 234);;
+    padding : 20px;
+    color : black;
+    margin-left: 0;
+    margin-right:0;
+    border:3px solid goldenrod ;
+
+}
+
+.nouveaute button{
+    font-family: 'Urbanist', sans-serif;
+    border-radius: 5px;
+    padding : 5px;
+    color: white;
+    background-color: RGB(190, 150, 105);
+}
+
+.nouveaute h4{
+    margin: 0;
+    padding: 2px;
+}

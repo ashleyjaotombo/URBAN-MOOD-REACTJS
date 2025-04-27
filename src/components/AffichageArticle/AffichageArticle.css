@@ -1,0 +1,62 @@
+.affichage {
+    width: 400px;
+    margin: 20px auto;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    background-color: #fff;
+}
+
+.photoarticle {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    object-fit: cover;
+}
+
+h4 {
+    margin: 8px 0;
+    font-size: 18px;
+    font-weight: 500;
+    color: #333;
+}
+
+.bouton-panier {
+    padding: 8px 16px;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-top: 10px;
+}
+
+.bouton-panier:hover {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+
+.bouton-retour {
+    display: inline-block;
+    margin: 0 auto 10px auto;
+    padding: 6px 14px;
+    background-color: transparent;
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    border: 2px solid black;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.bouton-retour:hover {
+    background-color: black;
+    color: white;
+}
