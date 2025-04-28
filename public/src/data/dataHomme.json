@@ -1,0 +1,58 @@
+{
+  "pantalon": [
+    { "title": "pantalon1", "genre":"homme", "prix": 30, "description": "Pantalon cargo beige" },
+    { "title": "pantalon2", "genre":"homme", "prix": 28, "description": "Jean ample gris clair" },
+    { "title": "pantalon3", "genre":"homme", "prix": 35, "description": "Cargo bordeaux" },
+    { "title": "pantalon4", "genre":"homme", "prix": 32, "description": "Jean large noir vintage" },
+    { "title": "pantalon5", "genre":"homme", "prix": 34, "description": "Pantalon texturé marron" },
+    { "title": "pantalon6", "genre":"homme", "prix": 29, "description": "Jean bleu ciel à motifs" },
+    { "title": "pantalon7", "genre":"homme", "prix": 33, "description": "Jogger beige urbain" },
+    { "title": "pantalon8", "genre":"homme", "prix": 31, "description": "Cargo blanc coupe droite" },
+    { "title": "pantalon9", "genre":"homme", "prix": 25, "description": "Pantalon patchwork sport" },
+    { "title": "pantalon10", "genre":"homme", "prix": 24, "description": "Cargo gris anthracite" },
+    { "title": "pantalon11", "genre":"homme", "prix": 26, "description": "Cargo noir technique" },
+    { "title": "pantalon12", "genre":"homme", "prix": 27, "description": "Jean oversize bleach" }
+  ],
+  "tshirt": [
+    { "title": "tshirt1", "genre":"homme", "prix": 20, "description": "T-Shirt oversize bleu" },
+    { "title": "tshirt2", "genre":"homme", "prix": 22, "description": "T-Shirt noir Rocket" },
+    { "title": "tshirt3", "genre":"homme", "prix": 25, "description": "T-Shirt gothique noir" },
+    { "title": "tshirt4", "genre":"homme", "prix": 27, "description": "T-Shirt streetwear" },
+    { "title": "tshirt5", "genre":"homme", "prix": 24, "description": "T-Shirt minimal Stussy" },
+    { "title": "tshirt6", "genre":"homme", "prix": 26, "description": "T-Shirt uni vert" },
+    { "title": "tshirt7", "genre":"homme", "prix": 23, "description": "T-Shirt coupe droite" },
+    { "title": "tshirt8", "genre":"homme", "prix": 28, "description": "T-Shirt vintage" },
+    { "title": "tshirt9", "genre":"homme", "prix": 25, "description": "T-Shirt imprimé noir" },
+    { "title": "tshirt10", "genre":"homme", "prix": 22, "description": "T-Shirt uni vert militaire" },
+    { "title": "tshirt11", "genre":"homme", "prix": 21, "description": "T-Shirt logo vert" },
+    { "title": "tshirt12", "genre":"homme", "prix": 29, "description": "T-Shirt photo sable urbain" }
+  ],
+  "pull": [
+    { "title": "pull1", "genre":"homme", "prix": 45, "description": "Hoodie graphique noir" },
+    { "title": "pull2", "genre":"homme", "prix": 47, "description": "Hoodie fantaisie blanc" },
+    { "title": "pull3", "genre":"homme", "prix": 40, "description": "Pull col roulé" },
+    { "title": "pull4", "genre":"homme", "prix": 42, "description": "Sweat polaire" },
+    { "title": "pull5", "genre":"homme", "prix": 39, "description": "Sweat gris carreaux" },
+    { "title": "pull6", "genre":"homme", "prix": 43, "description": "Pull écru" },
+    { "title": "pull7", "genre":"homme", "prix": 43, "description": "Pull rouge" },
+    { "title": "pull8", "genre":"homme", "prix": 50, "description": "Sweat noir" },
+    { "title": "pull9", "genre":"homme", "prix": 46, "description": "Hoodie noir étoile centrale" },
+    { "title": "pull10", "genre":"homme", "prix": 48, "description": "Pull noir" },
+    { "title": "pull11", "genre":"homme", "prix": 52, "description": "Veste polaire marron" },
+    { "title": "pull12", "genre":"homme", "prix": 44, "description": "Pull graphique" }
+  ],
+  "accessoire":[
+    { "title": "accessoire1", "genre":"homme", "prix": 15, "description": "Casquette NY marine" },
+    { "title": "accessoire2", "genre":"homme", "prix": 22, "description": "Sacoche blanche" },
+    { "title": "accessoire3", "genre":"homme", "prix": 13, "description": "Chaîne argent classique" },
+    { "title": "accessoire4", "genre":"homme", "prix": 79, "description": "Bonnet noir milkshake" },
+    { "title": "accessoire5", "genre":"homme", "prix": 120, "description": "Basket sport" },
+    { "title": "accessoire6", "genre":"homme", "prix": 17, "description": "Sacoche noire motif luxe" },
+    { "title": "accessoire7", "genre":"homme", "prix": 19, "description": "Cagoule mint texturée"  },
+    { "title": "accessoire8", "genre":"homme", "prix": 25, "description": "Collier cercle" },
+    { "title": "accessoire9", "genre":"homme", "prix": 12, "description": "Ceinture noire tactique" },
+    { "title": "accessoire10", "genre":"homme", "prix": 14, "description": "Ceinture noire tactique" },
+    { "title": "accessoire11", "genre":"homme", "prix": 21, "description": "Casquette marron" },
+    { "title": "accessoire12", "genre":"homme", "prix": 16, "description": "Casquette Jaguar" }
+  ]
+}
