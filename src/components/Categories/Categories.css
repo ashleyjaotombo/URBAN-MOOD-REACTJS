@@ -1,0 +1,36 @@
+.listeVetement ul{
+    display: flex;
+    padding:0;
+
+}
+
+.listeVetement li{
+    list-style: none;
+    border : 1px solid black;
+    margin: 9px;
+    padding: 2px;
+    transition: transform 0.3s, box-shadow 0.3s;
+
+}
+
+
+
+.liste-link {
+    display: inline-block;
+    padding: 6px 12px;
+    margin: 0 5px;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 50px;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.liste-link:hover {
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    transform: scale(1.05);
+}
